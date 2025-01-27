@@ -4,6 +4,7 @@ super-mall项目是一套电商系统，包括前台商城系统及后台管理�
 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 
 ##项目结构
+```
 mall
 ├── mall-common -- 工具类及通用代码
 ├── mall-mbg -- MyBatisGenerator生成的数据库操作代码
@@ -12,3 +13,4 @@ mall
 ├── mall-search -- 基于Elasticsearch的商品搜索系统
 ├── mall-portal -- 前台商城系统接口
 └── mall-demo -- 框架搭建时的测试代码
+```
